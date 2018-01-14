@@ -1,4 +1,4 @@
-# Single page application using Laravel, JWT and Vuejs
+# Single page application using Laravel and Vuejs
 
 ----
 
